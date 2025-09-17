@@ -8,7 +8,7 @@ Discord: elia73333  ID: 1185667966063353877
 
 Discord Server Coming Soon...
 
-You may find me in All Things Linux Discord Server (discord.gg/atl, this is not a sponsor)
+You may find me in All Things Linux Discord Server (discord.gg/linux, this is not a sponsor)
 
 
 ### License
