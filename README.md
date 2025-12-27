@@ -4,7 +4,7 @@
 You may not use any of the following branding as your own, please ask for permission first to make any project using a similar logo or branding.
 
 # Contact Info
-Discord: elia73333  ID: 1185667966063353877
+Discord: elia73333.linux  ID: 1185667966063353877
 
 Discord Server Coming Soon...
 
@@ -28,5 +28,5 @@ Under these Conditions:
 * Same license
 
 
-**&copy; Copyright Aperture OS 2025**
+**&copy; Copyright Aperture OS 2025-2026**
 **Must Include the Copyright notice in any fork!**
